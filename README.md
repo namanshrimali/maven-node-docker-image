@@ -10,5 +10,5 @@ Clone this repository and run the following command in terminal
 ```sh
 docker build -t <imagename:tag> <path-to-Dockerfile>
 ```
-put path-to-Dockerfile as ` . ` if terminal is opened in the root directory
+put `<path-to-Dockerfile>` as ` . ` if terminal is opened in the root directory
 
